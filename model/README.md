@@ -4,5 +4,5 @@
 
 ### Example
 * Netflix
-  * server on EC2
+  * Servers (web servers, database servers, etc.) on EC2
   * video content on [https://openconnect.itp.netflix.com/](Netflix Open Connect)
