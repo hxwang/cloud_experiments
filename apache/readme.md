@@ -20,3 +20,5 @@
 - restart service `sudo /etc/init.d/apache2 restart`
 
 ### Logs
+- all access logs `/var/log/apache2/access.log`
+  - include `2XX`, `3XX` `4XX`
