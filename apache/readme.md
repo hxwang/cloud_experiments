@@ -13,7 +13,9 @@
   </Directory>
   ```
   - Change local folder permission `chmod -R 775 /home/ubuntu/website/`
-
+- Configure DocumentRoot in file `/etc/apache2/sites-available/000-default.conf`
+  - `DocumentRoot /home/ubuntu/website`
+  
 ### Restart service
 
 ### Logs
