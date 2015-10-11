@@ -11,4 +11,5 @@
 
 | Url | Type | Dyanimc content size | Static content size | Total |
 |:---:|:----:|:--------------------:|:-------------------:|:-----:|
-| www.google.com | Search Engine | 57KB | 197KB | 254 KB | 
+| www.google.com | Search Engine | 57KB | 197KB | 254KB | 
+| www.yahoo.com  | Portal        | 104KB | 3300KB | 3196KB |
