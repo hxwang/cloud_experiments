@@ -12,6 +12,7 @@
         Require all granted
   </Directory>
   ```
+  - Change local folder permission `chmod -R 775 /home/ubuntu/website/`
 
 ### Restart service
 
