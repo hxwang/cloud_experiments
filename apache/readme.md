@@ -17,5 +17,6 @@
   - `DocumentRoot /home/ubuntu/website`
   
 ### Restart service
+- restart service `sudo /etc/init.d/apache2 restart`
 
 ### Logs
