@@ -1,4 +1,4 @@
 ## Website hosting
 
 ### Amazon
-- CloudFront
+- [Deploy website with Amazon Elastic Beanstalk]()
