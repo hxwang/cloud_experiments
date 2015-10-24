@@ -7,8 +7,8 @@
 - For amazon cloud, cold migration may be doable by stopping a virtual machine and restarting it again so that it might be assigned to a new host, or might not.
 
 ### For research cloud
-- vm migration is not supported yet in [[chameleoncloud]](../../chameleoncloud)
+- vm migration is not supported yet in [[chameleoncloud]](https://github.com/hxwang/chameleoncloud)
 
 
 ### Alternatives
-- [[VM migration in OpenStack]](../../openstack)
+- [[VM migration in OpenStack]](https://github.com/hxwang/openstack)
