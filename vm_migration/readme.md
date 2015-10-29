@@ -12,3 +12,4 @@
 
 ### Alternatives
 - [[VM migration in OpenStack]](https://github.com/hxwang/openstack)
+- [VM migration in VMware vSphere](https://github.com/hxwang/vmware)
