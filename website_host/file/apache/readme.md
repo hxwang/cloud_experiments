@@ -23,3 +23,11 @@
 ### Logs
 - all access logs `/var/log/apache2/access.log`
   - include `2XX`, `3XX` `4XX`
+
+
+### Bugs
+- Public DNS problem
+  - If your instance is not configured with public DNS, then you may meet the error
+    - `AH00557: apache2: apr_sockaddr_info_get() failed for ip-`
+  - Solution: go to `VPC` pannel, and enable DNS name etc. Then a public DNS name will be set for the instance.
+  
