@@ -1,6 +1,7 @@
 
 ### Install
-- `sudo apt-get install apache2`
+- Update: `sudo apt-get update`
+- Install apache2: `sudo apt-get install apache2`
 
 ### Configuration
 - Website folder read/write permission
